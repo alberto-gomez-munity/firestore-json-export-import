@@ -1,4 +1,4 @@
-const serviceAccount = require('./service-account.json');
+const serviceAccount = require('./service-account-export.json');
 const { schema } = require('./schema');
 
 const outputFilePath = './db.json';

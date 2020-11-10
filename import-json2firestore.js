@@ -1,4 +1,4 @@
-const serviceAccount = require('./service-account.json');
+const serviceAccount = require('./service-account-import.json');
 const { schema } = require('./schema');
 
 const inputFilePath = './db.json';

@@ -1,8 +1,28 @@
 const schema = {
-  collection1: {},
-  collection2: {
-    subcollection1: {}
-  }
+  administrators: {},
+  config: {
+    changelog_ios: {},
+    changelog_android: {},
+  },
+  organizations: {
+    config_app: {
+      widgets: {},
+    },
+    devices: {},
+    modules: {},
+    users: {},
+    tokens: {},
+  },
+  users: {
+    devices: {
+    },
+    organizations: {
+      procedures: {},
+    },
+  },
+  templates: {
+    emails: {},
+  },
 };
 
 exports.schema = schema;
