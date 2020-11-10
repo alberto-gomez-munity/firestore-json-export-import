@@ -38,7 +38,6 @@ Ejecutar cualquiera de estos 2 commandos:
 
 ```npm run export```
 
-```npm run pull```
 
 ### Importing - Push | Importar
 
@@ -50,7 +49,6 @@ Ejecutar cualquiera de estos 2 commandos:
 
 ```npm run import```
 
-```npm run push```
 
 ## Want to help? | ¿Quiere ayudar?
 
